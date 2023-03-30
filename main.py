@@ -14,6 +14,7 @@ Tort_cu_ciocolata=[
   {"nume": "oua", "cantitate": 6},
   {"nume": "faina", "cantitate": 500},
   {"nume": "zahar", "cantitate": 200},
+  {'nume': 'bicarbonat', 'cantitate': 10},
   {"nume": "ciocolata", "cantitate": 200}]
 
 bucatarie= Bucatarie()
