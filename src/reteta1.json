@@ -1,0 +1,9 @@
+Tort cu ciocolata=
+[{
+
+  {"ingredient": "oua", "cantitate": 6},
+  {"ingredient": "faina", "cantitate": 500},
+  {"ingredient": "zahar", "cantitate": 200},
+  {"ingredient": "ciocolata", "cantitate": 200}
+
+}]
